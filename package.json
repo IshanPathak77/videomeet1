@@ -1,0 +1,16 @@
+{
+  "name": "video-meet",
+  "version": "1.0.0",
+  "description": "This is video conferncing app build in Nodejs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhavesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "serve-favicon": "^2.5.0",
+    "socket.io": "^4.4.1"
+  }
+}
